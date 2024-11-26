@@ -1,7 +1,7 @@
 ﻿namespace Blazor_Lab_Starter_Code {
 	public class MainPro {
 
-		public static List<Book> books = new List<Book>();
+		public static List<Book> books = new List<Book>()
 		public static List<User> users = new List<User>();
 		public static Dictionary<User, List<Book>> borrowedBooks = new Dictionary<User, List<Book>>();
 
