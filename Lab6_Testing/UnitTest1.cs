@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestPlatform.TestHost;
 using Blazor_Lab_Starter_Code;
 
-namespace Lab6_Test
+namespace Lab6_Testing
 {
     [TestClass]
     public class MainProBookTests
